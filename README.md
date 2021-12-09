@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetguduk
 - 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning asp.net.
+- 🌱 I’m currently learning C++.
 - 📫 You can reach me via mail. (mehmetguduk98@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mehmetguduk/)
 - 🛠️ Tools I Use:
