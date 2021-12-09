@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehmetguduk
 - 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning asp.net.
-- 📫 You can reach me via mail.
+- 📫 You can reach me via mail. (mehmetguduk98@gmail.com)
 - 🛠️ Tools I Use:
     - Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
     - Django
