@@ -6,16 +6,16 @@
     - Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
     - Django
     - C#
+    - HTML5
+    - CSS (SASS | SCSS)
+    - Bootstrap
+    - jQuery
     - Javascript
     - NodeJS
     - TypeScript
     - Angular
     - .Net Framework
     - .Net Core
-    - HTML5
-    - CSS (SASS | SCSS)
-    - Bootstrap
-    - jQuery
     - Asp.Net
     - MongoDB
     - MySQL
