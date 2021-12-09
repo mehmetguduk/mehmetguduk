@@ -3,24 +3,27 @@
 - 🌱 I’m currently learning asp.net.
 - 📫 You can reach me via mail. (mehmetguduk98@gmail.com)
 - 🛠️ Tools I Use:
-    - Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
-    - Django
-    - C#
-    - HTML5
-    - CSS (SASS | SCSS)
-    - Bootstrap
-    - jQuery
-    - Javascript
-    - NodeJS
-    - TypeScript
-    - Angular
-    - .Net Framework
-    - .Net Core
-    - Asp.Net
-    - MongoDB
-    - MySQL
-    - SQLite
-    - Kali Linux
+>- Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
+>- Django
+>- C#
+>- HTML5
+>- CSS (SASS | SCSS)
+>- Bootstrap
+>- jQuery
+>- Javascript
+>- NodeJS
+>- TypeScript
+>- Angular
+>- .Net Framework
+>- .Net Core
+>- Asp.Net
+>- MongoDB
+>- MySQL
+>- SQLite
+>- Kali Linux
+
+[LinkedIn](https://www.linkedin.com/in/mehmetguduk/).
+
 
 <!---
 mehmetguduk/mehmetguduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
