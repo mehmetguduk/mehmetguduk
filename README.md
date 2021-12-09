@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning asp.net.
 - 📫 You can reach me via mail. (mehmetguduk98@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mehmetguduk/)
+- [LinkedIn](https://www.linkedin.com/in/mehmetguduk/)
 - 🛠️ Tools I Use:
 >- Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
 >- Django
