@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning asp.net.
 - 📫 You can reach me via mail.
 - 🛠️ Tools I Use:
-- Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
+** Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
 - Django
 - C#
 - Javascript
