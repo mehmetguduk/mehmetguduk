@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C++.
 - 📫 You can reach me via mail. (mehmetguduk98@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mehmetguduk/)
-- 🛠️ Tools I Use:>- Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
+- 🛠️ Tools I Use:
+>- Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
 >- Django
 >- C#
 >- HTML5
