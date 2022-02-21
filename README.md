@@ -13,6 +13,7 @@
 >- jQuery
 >- Javascript
 >- NodeJS
+>- React
 >- TypeScript
 >- Angular
 >- .Net Framework
