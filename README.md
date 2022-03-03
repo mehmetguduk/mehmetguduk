@@ -4,28 +4,6 @@
 - 📫 You can reach me via mail. (mehmetguduk98@gmail.com)
 - 🌎 [Personal Website](https://mehmetguduk.netlify.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mehmetguduk/)
-- 🛠️ Tools I Use:
->- Python (Numpy | Selenium | Pandas | Pyqt5 | Data Visulization with Matplotlib | and more...)
->- Django
->- C#
->- HTML5
->- CSS (SASS | SCSS)
->- Bootstrap
->- jQuery
->- Javascript
->- NodeJS
->- React
->- TypeScript
->- Angular
->- .Net Framework
->- .Net Core
->- Asp.Net
->- MongoDB
->- MySQL
->- SQLite
->- Kali Linux
-
-
 
 
 <!---
