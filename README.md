@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Firebase.
 - 📫 You can reach me via mail.
 - 🌎 [Personal Website](https://mehmetguduk.netlify.app/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mehmetguduk/)
 
 <!---
 mehmetguduk/mehmetguduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
